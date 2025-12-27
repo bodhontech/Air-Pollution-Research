@@ -1,0 +1,47 @@
+prompt  - "how to solve the air pollution ,,aqi of india "
+
+gemini -"
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+Solving India's Air Pollution and AQI
+Research Websites
+(1) Analyze the primary drivers of air pollution in India, dissecting major sources such as vehicular emissions, industrial discharge, construction dust, and agricultural crop burning.
+(2) Research current government frameworks and policies, specifically the National Clean Air Programme (NCAP) and Graded Response Action Plan (GRAP), evaluating their targets and implementation status.
+(3) Investigate solutions for stubble burning, focusing on alternatives like bio-decomposers, happy seeders, and policy incentives for farmers to shift away from crop residue burning.
+(4) Explore the role of transition to cleaner energy, including the adoption of electric vehicles (EVs), Bharat Stage VI (BS-VI) emission norms, and the shift towards renewable power generation.
+(5) Examine urban planning and municipal strategies, such as dust control mandates for construction sites, solid waste management to prevent open burning, and increasing urban green cover.
+(6) Assess the feasibility and impact of technological interventions like smog towers, cloud seeding, and air purification systems in high-density areas.
+(7) Synthesize individual and community-level actions that can contribute to lowering the Air Quality Index (AQI), including lifestyle changes and advocacy."
+
+prompt -"Edit the research plan"
+
+gemini - "
+This is the current plan. What changes do you want to make?
+
+(1) Analyze the primary drivers of air pollution in India, dissecting major sources such as vehicular emissions, industrial discharge, construction dust, and agricultural crop burning.
+(2) Research current government frameworks and policies, specifically the National Clean Air Programme (NCAP) and Graded Response Action Plan (GRAP), evaluating their targets and implementation status.
+(3) Investigate solutions for stubble burning, focusing on alternatives like bio-decomposers, happy seeders, and policy incentives for farmers to shift away from crop residue burning.
+(4) Explore the role of transition to cleaner energy, including the adoption of electric vehicles (EVs), Bharat Stage VI (BS-VI) emission norms, and the shift towards renewable power generation.
+(5) Examine urban planning and municipal strategies, such as dust control mandates for construction sites, solid waste management to prevent open burning, and increasing urban green cover.
+(6) Assess the feasibility and impact of technological interventions like smog towers, cloud seeding, and air purification systems in high-density areas.
+(7) Synthesize individual and community-level actions that can contribute to lowering the Air Quality Index (AQI), including lifestyle changes and advocacy."
+
+
+prompt -"
+add two  more steps step 1 is  of resraching though papers and articles by other scientist and indians how to solve this aqi step 2 is analyzing what other nations and places have taken step if any to solve this kind of situation ,,,, ahhhh let's add another step why not also give some of the traditional solutions and search out through the traditional and local techniques which are developed and are adding value to the things may be add another step go though some of the main crux parameters which actually are falling in the line to implement steps in india ,,, throughout the whole research keep to things that you get  the exact  financial figures and exact figures in every thing "
+
+gemini -
+"I've updated the list. Let me know if there's anything else.
+India's AQI Solutions Research Plan
+Research Websites
+(1) Analyze the primary drivers of air pollution in India, such as vehicular emissions, industrial discharge, and crop burning, ensuring the collection of exact statistical data on emission loads.
+(2) Review research papers and articles by Indian and global scientists to gather expert-recommended solutions for solving the AQI crisis.
+(3) Investigate strategies and policy measures adopted by other nations and cities to successfully combat severe air pollution for potential replication in India.
+(4) Research traditional and local indigenous techniques for air quality management that are currently developed and adding value.
+(5) Identify the main "crux parameters" and practical hurdles that hinder the effective implementation of air pollution control measures in India.
+(6) Evaluate government frameworks (NCAP, GRAP), stubble burning solutions, and energy transitions (EVs), focusing specifically on obtaining exact financial figures and investment costs.
+(7) Assess urban planning strategies and technological interventions like smog towers, prioritizing specific data on costs and performance effectiveness.
+(8) Synthesize the findings into a comprehensive solution set, strictly adhering to the inclusion of exact financial figures and quantitative data for every proposed measure."
+
+prompt  - "Start research"
+
+gemini - "India's AQI Solutions Research Plan document "
