@@ -1,0 +1,7 @@
+1. actual problem data driven 
+2. show off solution 
+3. actual solutions and their complexities 
+4. case studies 
+
+
+now the actual solution would need more research and are to be used for SIMULATIONS and theoretical understanding of the processed info 
